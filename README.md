@@ -35,6 +35,5 @@ Owl Carousel (carrossel de imagens)
 
 Melhorar a responsividade para dispositivos menores Implementar um sistema de pedidos online Adicionar integração com um backend para gerenciar pedidos
 
-🌍 Acesse o site
-O site está disponível em:
+
 
